@@ -1,0 +1,1 @@
+Axios is used to fetch a url. An event listener is added to a button to call a function that returns a response from the request url. The response includes a dog image url which is displayed using an img tag and setting it's attribute src to the response returned by the API.
